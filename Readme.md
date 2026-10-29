@@ -40,7 +40,7 @@ The results indicate strong desktop performance, with high scores in all four ca
 - Remove duplicate CSS rules where possible.
 - Use efficient resource loading techniques.
 
-![Performance Speed]("PerformanceSpeed.png")
+![Performance Speed](PerformanceSpeed.png)
 
 ### Accessibility
 - Use semantic HTML elements such as `header`, `nav`, `main`, and `footer`.
