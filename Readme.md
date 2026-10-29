@@ -40,7 +40,7 @@ The results indicate strong desktop performance, with high scores in all four ca
 - Remove duplicate CSS rules where possible.
 - Use efficient resource loading techniques.
 
-![Performance Speed]("Performance Speed.png")
+![Performance Speed]("PerformanceSpeed.png")
 
 ### Accessibility
 - Use semantic HTML elements such as `header`, `nav`, `main`, and `footer`.
@@ -49,7 +49,7 @@ The results indicate strong desktop performance, with high scores in all four ca
 - Maintain sufficient color contrast.
 - Check keyboard navigation and visible focus indicators.
 
-![Web Accessibility]("Web Accessibility.png")
+![Web Accessibility]("WebAccessibility.png")
 
 ### Code Quality
 - Keep HTML, CSS, and JavaScript organized in separate files.
